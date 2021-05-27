@@ -7,7 +7,7 @@ ILOVEYOU, sometimes referred to as Love Bug or Love Letter, was a computer worm 
 — Wikipedia, ILOVEYOU
 <!---->
 
-#How it works 
+# How it works 
 
 The worm is distributed primarily through email, most prominently Microsoft Outlook at the time. It does so by sending an email to each of the victim's contacts, listed in their Address Book.
 
@@ -17,11 +17,11 @@ It also makes it so, after having executed the script the first time, will execu
 
 It relies on the fact that Windows will automatically execute any Visual Basic Script files, when opened from the file explorer or from Outlook, making it trivial for a victim to accidentally execute it.
 
-#Warning / Disclaimer
+# Warning / Disclaimer
 
 This program and its source files are only uploaded for educational purposes. Do not execute this program if you do not know what it does and what the risks are. I highly recommend you do not execute this file on your personal machine. This script should only be executed in a VM.
 
-#Credits
+# Credits
 
 This code was obtained by https://Cexx.org/
 
